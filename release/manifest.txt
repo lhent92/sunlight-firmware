@@ -1,4 +1,4 @@
-version=0.4.2
+version=0.4.1
 bin=sunlight-0.4.1.bin
 size=1302800
 sha256=90ed1b9377fb76d38ac533cb418bf0eafc23b12cff817350ca18caa01548ac9f
